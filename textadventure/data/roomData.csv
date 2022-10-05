@@ -1,0 +1,7 @@
+"ID","Name","Info","North Room","East Room","South Room","West Room","Pickup","Racoon"
+"startingroom","???","You awaken and look around. You're in a dark stone room with no windows, almost like a dungeon/of some sort. You can make out two passageways, one in front of you to the north, and one/over to the west.//Use the command ""go <north|south|east|west>"" to travel in a direction","northpassage","","","westpassage","",""
+"northpassage","???","You get up and walk ahead through the north passageway. It's long and dark/with the occasional candle mounted on the wall, casting an faint, eerie light on the cold floor./Eventually, you come across an open door to the north at the end of the tunnel.","northroom","","startingroom2","","",""
+"westpassage","???","You get up and walk to the left through the west passageway. You see a rusty iron door at the end,/ but you can't seem to open it. Maybe it's locked?","","startingroom2","","","",""
+"startingroom2","???","You're in a dark stone room with no windows, almost like a dungeon of some sort. You can make out/two passageways, one in front of you to the north, and one over to the west.","northpassage","","","westpassage","",""
+"northroom","???","You're in a dimly-lit room with stone walls. The room is mostly empty, except for the occasional/chains hanging from the ceiling and the candles mounted on the walls.","","","northpassage","","chain,potato",""
+"racoon","Racoon","Racoon","racoon","racoon","racoon","racoon","racoon","racoon"
